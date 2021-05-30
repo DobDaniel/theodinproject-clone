@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theodinproject-clone/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/theodinproject-clone/static/js/main.a704e8d8.chunk.js",
+    "main.js.map": "/theodinproject-clone/static/js/main.a704e8d8.chunk.js.map",
+    "runtime-main.js": "/theodinproject-clone/static/js/runtime-main.ff1ea065.js",
+    "runtime-main.js.map": "/theodinproject-clone/static/js/runtime-main.ff1ea065.js.map",
+    "static/js/2.6e2f7198.chunk.js": "/theodinproject-clone/static/js/2.6e2f7198.chunk.js",
+    "static/js/2.6e2f7198.chunk.js.map": "/theodinproject-clone/static/js/2.6e2f7198.chunk.js.map",
+    "static/js/3.35c1cd0f.chunk.js": "/theodinproject-clone/static/js/3.35c1cd0f.chunk.js",
+    "static/js/3.35c1cd0f.chunk.js.map": "/theodinproject-clone/static/js/3.35c1cd0f.chunk.js.map",
+    "index.html": "/theodinproject-clone/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/theodinproject-clone/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6e2f7198.chunk.js.LICENSE.txt": "/theodinproject-clone/static/js/2.6e2f7198.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/theodinproject-clone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff1ea065.js",
+    "static/js/2.6e2f7198.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a704e8d8.chunk.js"
+  ]
+}
