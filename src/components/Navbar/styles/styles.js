@@ -11,7 +11,8 @@ export default makeStyles(() => ({
         padding: 0,
         
         display: 'flex',
-        marginTop: '20px',
+        marginTop: '10px',
+        marginBottom: '50px',
         paddingLeft: "168px",
         paddingRight: "168px",
         alignItems: 'center',
