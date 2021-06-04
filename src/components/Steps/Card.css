@@ -1,0 +1,26 @@
+.tile{
+    padding: 1em;
+    flex: 1;
+}
+.image{
+    height: 165px;
+    vertical-align: middle;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 1.125rem;
+    font-family: "Open Sans";
+    color: "#4a4a4a";
+    letter-spacing: 0.2px;
+    margin: 50px 0 20px;
+}
+
+.description{
+    font-weight: 400;
+    font-size: 1.125rem;
+    font-family: "Open Sans";
+    color: rgba(74,74,74,0.7);
+    letter-spacing: 0.2px;
+    line-height: 1.88;
+}
